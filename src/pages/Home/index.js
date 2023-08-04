@@ -44,7 +44,7 @@ const Home = () => {
       <Popular />
       <TopRated />
 
-      <div className="footer">Boxflix | All rights reserved.</div>
+      <div className="footer">StreamFlix | All rights reserved.</div>
     </Layout>
   );
 };

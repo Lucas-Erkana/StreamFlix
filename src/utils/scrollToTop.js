@@ -10,6 +10,7 @@ export default function ScrollToTop() {
   useEffect(() => {
     window.scrollTo(0, 0);
     handleHideSearch();
+    // eslint-disable-next-line
   }, [pathname]);
 
   return null;

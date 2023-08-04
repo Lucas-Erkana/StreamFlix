@@ -79,6 +79,10 @@ const Details = memo(({ details, loading }) => {
               <p>{status}</p>
             </div>
             <div className={s.info_item}>
+              <h4>Movie</h4>
+              <a href="https://u.pcloud.link/publink/show?code=XZ7V1NVZM25DVtlsPSV3G9D54YsQQm0jFXHX">Watch Now</a>
+            </div>
+            <div className={s.info_item}>
               <h4>Languages</h4>
               <p>{arrayToString(spoken_languages)}</p>
             </div>

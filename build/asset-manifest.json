@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6079f780.css",
+    "main.js": "/static/js/main.e95c04ff.js",
+    "static/media/comedy.jpg": "/static/media/comedy.135905801273f596968f.jpg",
+    "static/media/documentary.jpg": "/static/media/documentary.858890bbb380aaa0f9dc.jpg",
+    "static/media/adventure.jpg": "/static/media/adventure.ed19c7dcf34216be0f39.jpg",
+    "static/media/tv_movie.jpg": "/static/media/tv_movie.12ddf7179054f47da09c.jpg",
+    "static/media/drama.jpg": "/static/media/drama.c3f7441ec3fbb7f51253.jpg",
+    "static/media/science_fiction.jpg": "/static/media/science_fiction.184a1d90800358b1bb26.jpg",
+    "static/media/family.jpg": "/static/media/family.44647730ae8389043caa.jpg",
+    "static/media/fantasy.jpg": "/static/media/fantasy.3b513a87280c2292fe62.jpg",
+    "static/media/music.jpg": "/static/media/music.dbf8912897e2b52dd64b.jpg",
+    "static/media/western.jpg": "/static/media/western.1188b5259765abb5b4dc.jpg",
+    "static/media/mystery.jpg": "/static/media/mystery.cdc34d71f5452f15584b.jpg",
+    "static/media/thriller.jpg": "/static/media/thriller.e51927f86883b5466d1e.jpg",
+    "static/media/romance.jpg": "/static/media/romance.c6e9e7c2c3ca609c223b.jpg",
+    "static/media/animation.jpg": "/static/media/animation.e1fc7beb4661a2c1ee3e.jpg",
+    "static/media/crime.jpg": "/static/media/crime.1f00ba9f2ef6ab0b28e9.jpg",
+    "static/media/war.jpg": "/static/media/war.15d2715758fa0a448d94.jpg",
+    "static/media/history.jpg": "/static/media/history.0bbbaf7fed0b4235937e.jpg",
+    "static/media/action.jpg": "/static/media/action.02e5417be929116f8da2.jpg",
+    "static/media/horror.jpg": "/static/media/horror.0b3ef3d1cb4dbf40e4a0.jpg",
+    "static/media/poster-not-found.jpg": "/static/media/poster-not-found.c0145762637219388347.jpg",
+    "static/media/backdrop-not-found.jpg": "/static/media/backdrop-not-found.bf1c6bf195c7bdab5060.jpg",
+    "index.html": "/index.html",
+    "main.6079f780.css.map": "/static/css/main.6079f780.css.map",
+    "main.e95c04ff.js.map": "/static/js/main.e95c04ff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6079f780.css",
+    "static/js/main.e95c04ff.js"
+  ]
+}
