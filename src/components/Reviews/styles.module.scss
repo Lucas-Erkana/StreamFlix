@@ -1,0 +1,45 @@
+.reviews_outer {
+  margin-top: 20px;
+  margin-bottom: 80px;
+}
+
+.reviews_inner {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  align-items: flex-start;
+  gap: 20px;
+  padding: 0 20px;
+
+  @media (max-width: 768px) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.review {
+  display: grid;
+  gap: 10px;
+}
+
+.author {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+
+  svg {
+    width: 30px;
+    height: 30px;
+  }
+}
+
+.info {
+  display: grid;
+  gap: 5px;
+
+  h4 {
+    font-size: 16px;
+  }
+
+  p {
+    font-size: 14px;
+  }
+}

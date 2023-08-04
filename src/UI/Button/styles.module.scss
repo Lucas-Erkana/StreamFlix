@@ -1,0 +1,17 @@
+.button {
+  font-size: 14px;
+  color: #fff;
+  background-color: #767676;
+  border-radius: 25px;
+  text-transform:capitalize;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 0 22px;
+  height: 35px;
+  transition: background-color .45s ease;
+
+  &:hover {
+    background-color: #016c73 !important;
+  }
+}

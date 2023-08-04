@@ -1,0 +1,42 @@
+{
+  "extends": [
+    "development"
+  ],
+  "hints": {
+    "compat-api/css": [
+      "default",
+      {
+        "ignore": [
+          "user-select",
+          "display: grid",
+          "grid-template-columns",
+          "grid-template-columns: repeat(auto-fill, minmax(30%, 1fr))",
+          "object-fit",
+          "object-position",
+          "scroll-behavior",
+          "scrollbar-width",
+          "scrollbar-color",
+          "inset",
+          "grid-template-columns: repeat(auto-fill, minmax(33%, 1fr))",
+          "grid-template-columns: repeat(auto-fill, minmax(25%, 1fr))",
+          "grid-template-columns: repeat(auto-fill, minmax(20%, 1fr))",
+          "grid-template-columns: repeat(auto-fill, minmax(31%, 1fr))",
+          "grid-template-columns: repeat(auto-fill, minmax(23%, 1fr))",
+          "grid-template-columns: repeat(auto-fill, minmax(18%, 1fr))",
+          "grid-template-columns: repeat(auto-fill, minmax(15%, 1fr))",
+          "-webkit-line-clamp",
+          "-webkit-box-orient",
+          "grid-template-columns: repeat(2, 1fr)"
+        ]
+      }
+    ],
+    "compat-api/html": [
+      "default",
+      {
+        "ignore": [
+          "meta[name=theme-color]"
+        ]
+      }
+    ]
+  }
+}

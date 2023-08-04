@@ -1,0 +1,16 @@
+.empty_message {
+  font-size: 32px;
+  font-weight: 600;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+
+  @media screen and (max-width: 768px) {
+    font-size: 28px
+  }
+}
+
+.half_height {
+  height: 50vh;
+}
